@@ -1,14 +1,12 @@
 # Program menghitung volume dan luas permukaan balok
 
-# Data ukuran balok (dalam cm)
 panjang = 10
 lebar = 6
 tinggi = 4
 
-# Hitung volume balok
 volume = panjang * lebar * tinggi
 
-# Hitung luas permukaan balok
+
 luas_permukaan = 2 * ((panjang * lebar) + (panjang * tinggi) + (lebar * tinggi))
 
 # Output
